@@ -1,3 +1,7 @@
+This is an example of angular browser dynamic title change by using the ReplaySubject, Title.
+
+Note: Once you run the project hover the cursor on browser tab, you can see the changes of the title.
+
 # AngularDynamicTitleExample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
